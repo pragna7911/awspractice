@@ -1,3 +1,6 @@
 test file
 wrting context for smaple data
 
+hi
+hello
+good afternoon
